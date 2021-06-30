@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "jwtSecret": "my web portfolio",
+  "mongoUri": "mongodb+srv://monstrum:sm5pjgUd$F8q.mX@cluster0.ale9o.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
